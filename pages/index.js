@@ -42,10 +42,10 @@ const Home = () => {
       <div className="container">
         <div className="header">
           <div className="header-title">
-            <h1>ChatTBH</h1>
+            <h1>Chat<span style={{color:"#FF5864", fontWeight:"bolder"}}>T</span><span style={{color:"#FFC629", fontWeight:"bolder"}}>B</span><span style={{color:"#B026FF", fontWeight:"bolder"}}>H</span></h1>
           </div>
           <div className="header-subtitle">
-            <h2>Up your game on <span style={{color:"#FF5864", fontWeight:"bolder"}}>T</span>inder, <span style={{color:"#FFC629", fontWeight:"bolder"}}>B</span>umble and <span style={{color:"#B026FF", fontWeight:"bolder"}}>H</span>inge with GPT3</h2>
+            <h2>Up your game on <span style={{color:"#FF5864", fontWeight:"bolder"}}>Tinder</span>, <span style={{color:"#FFC629", fontWeight:"bolder"}}>Bumble</span> and <span style={{color:"#B026FF", fontWeight:"bolder"}}>Hinge</span> with GPT3</h2>
           </div>
           <div>
             <p>Say goodbye to those awkward silences and hello to a smooooth dating experience! Introducing ChatTBH, your wingman in the digital dating world. This web app serves up a platter of fresh and flirty conversation starters, guaranteed to make your matches swoon. No more struggling to think of something clever to say, let our app do the heavy lifting while you sit back, relax, and enjoy the ride. So, whether you're a seasoned swiper or a dating app newbie, give ChatTBH a try and let the sparks fly! </p>          
