@@ -10,6 +10,8 @@ export default function Document() {
           property="og:image"
           content="https://github.com/DianZzzz/ChatTBH/blob/main/assets/logo.png?raw=true"
         />
+        <meta property="og:image:width" content="528"/>
+        <meta property="og:image:height" content="145"/>
         <meta name="twitter:card" content="summary_large_image"></meta>
       </Head>
       <body>
