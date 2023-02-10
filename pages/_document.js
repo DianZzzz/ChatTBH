@@ -8,7 +8,7 @@ export default function Document() {
         <meta property="og:description" content="Up your game on Tinder, Hinge and Bumble" key="description"/>
         <meta
           property="og:image"
-          content="https://github.com/DianZzzz/ChatTBH/blob/main/assets/image.png?raw=true"
+          content="https://github.com/DianZzzz/ChatTBH/blob/main/assets/logo.png?raw=true"
         />
         <meta name="twitter:card" content="summary_large_image"></meta>
       </Head>
