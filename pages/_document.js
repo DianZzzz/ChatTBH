@@ -10,8 +10,6 @@ export default function Document() {
           property="og:image"
           content="https://i.ibb.co/SJ6Nzjx/image.png"
         />
-        <meta property="og:image:width" content="528"/>
-        <meta property="og:image:height" content="145"/>
         <meta name="twitter:card" content="summary_large_image"></meta>
       </Head>
       <body>
