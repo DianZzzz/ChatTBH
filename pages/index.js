@@ -37,13 +37,6 @@ const Home = () => {
     <div className="root">
       <Head>
         <title>ChatTBH</title>
-        <meta property="og:title" content="ChatTBH" key="title"/>
-        <meta property="og:description" content="Up your game on Tinder, Hinge and Bumble" key="description"/>
-        <meta
-          property="og:image"
-          content="https://github.com/DianZzzz/ChatTBH/blob/main/assets/image.png"
-        />
-        <meta name="twitter:card" content="summary_large_image"></meta>
       </Head>
 
       <div className="container">
